@@ -18,9 +18,10 @@ Give a ⭐️ if this project helped you!
 
 
 ### For more information
-* Explanation: https://www.javatpoint.com/inheritance-in-java
-* Youtube simple inheritance: https://www.youtube.com/watch?v=_9R_in_7cT4
-* Youtube multiple inheritance: https://www.youtube.com/watch?v=VrLNbewZRCw&pbjreload=101
+* [Explanation](https://www.javatpoint.com/inheritance-in-java)
+* [Youtube simple inheritance](https://www.youtube.com/watch?v=_9R_in_7cT4)
+* [Youtube multiple inheritance](https://www.youtube.com/watch?v=VrLNbewZRCw&pbjreload=101)
+* [Youtube multiple inheritance with Interface](https://www.youtube.com/watch?v=t4GstSJcD4Y)
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
